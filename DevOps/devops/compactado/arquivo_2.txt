@@ -1,0 +1,5 @@
+Notas de Estudo
+
+- Explorando o servidor Ubuntu.
+- Texto criado usando o Nano !
+- Conexão SSH 
